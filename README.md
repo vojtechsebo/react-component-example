@@ -1,2 +1,2 @@
-# react-sample-component
+# react-component-example
 React component example
